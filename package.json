@@ -1,7 +1,7 @@
 {
-  "name": "invoice_api",
+  "name": "invoice_app_api",
   "version": "1.0.0",
-  "description": "invoice application api",
+  "description": "invoice app api",
   "main": "app.js",
   "scripts": {
     "start": "node server.js",
@@ -21,6 +21,6 @@
     "nodemon": "^2.0.15"
   },
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   }
 }
